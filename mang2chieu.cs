@@ -7,7 +7,7 @@ namespace bien
         public static void Main()
         {  
          int a ,b ;
-         Console.WriteLine("chương trình so sánh 2 số chẳn và lẻ ");
+         Console.WriteLine(" so sánh 2 số chẳn và lẻ ");
          Console.Write ("nhap so a: ");
          a = Convert.ToInt32(Console.ReadLine ());
          b = a /2 ;
